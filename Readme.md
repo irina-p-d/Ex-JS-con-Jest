@@ -1,10 +1,14 @@
-# Ex-Vowel-check-TS-TDD
+# Ex-JS-con-Jest
 
     - TDD exercise done to practice JS, using Jest. The program has to 
 
     1. Ask for an age number.
 
     2. Tell if said person can drive (age 18+)
+
+## Requirements
+- Node.js
+- NPM
 
 ## Installation
 - npm install
@@ -14,30 +18,6 @@
 
 ## Stack
 - Jest
-
-
-
-
-
-
-
-
-
-
-
-
-# Javascript Fundamentals Exercises with Jest
-
-Ejercicios con test para practicar con variables y testing con jest
-
-## Requirements
-
-- Node.js
-- NPM
-
-## Installation
-
-- npm install
 
 ## Objective
 
