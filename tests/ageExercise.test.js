@@ -13,6 +13,12 @@ import { returnResult } from "../src/ageExercise";
             expect(result).toEqual("No puedes conducir");
             
             });
+        test("Testing for age: 35 ", () => {
+            let age = 35;
+            let result = returnResult(age);
+            expect(result).toEqual("Puedes conducir");
+            
+            });
     });
     
     
