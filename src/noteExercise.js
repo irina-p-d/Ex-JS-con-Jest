@@ -21,7 +21,7 @@ export function returnNote(point){
         return "Sobresaliente";
     }
 
-    
+  
     
     
     

@@ -3,7 +3,7 @@ import { returnNote } from "../src/noteExercise";
     
     describe('shoud return the grade according to the note', ()=> {
         test("Testing for note: 0-3", () => {
-            let point = 2.2;
+            let point = 0.5;
             let result = returnNote(point);
             expect(result).toEqual("Muy deficiente");
             
